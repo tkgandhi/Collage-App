@@ -1,0 +1,68 @@
+body{
+    background-color:darkseagreen;
+    font-family:cursive;
+}
+
+#footer{
+    font-family:monospace;
+    font-size:25px;
+    color:black;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 1300px;
+    margin: 8px auto;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+#camera{
+    width:500px;
+    height:400px;
+    border-color:darkgreen;
+    background-color: azure;
+}
+
+#pic1{
+    width:100px;
+    height:300px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-color:darkslategrey;
+}
+
+#pic2{
+    width:100px;
+    height:300px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-color:darkslategrey;
+}
+
+#pic3{
+    width:100px;
+    height:300px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    border-color:darkslategrey;
+}
+
+#resultRow{
+    align-items: horizontal;
+}
+
+
+.coloumn{
+    display: inline;
+    padding:10px;
+
+}
+
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
